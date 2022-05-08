@@ -1,7 +1,9 @@
+---
+---
 @font-face {
     font-family: OpenSans;
-    src: url("/fonts/OpenSans-Light.ttf")
-  }
+    src: url("{{ "/fonts/OpenSans-Light.ttf" | relative_url }} ")
+}
 
 .tab_content {
     padding: 1cm;
