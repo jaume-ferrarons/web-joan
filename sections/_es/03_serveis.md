@@ -2,6 +2,7 @@
 title: Servicios
 class: tab_content
 picture: /images/caslon00.png
+language: es
 ---
 
 ## Traducción

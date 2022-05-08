@@ -57,9 +57,13 @@ plugins:
 collections_dir: sections
 
 collections:
-  tabs:
-    output: false
-  es:
-    output: false
   ca:
-    output: false
+    output: true
+    # permalink: /:language/:title
+  es:
+    output: true
+    # permalink: /:language/:title
+  # es:
+  #   output: false
+  # ca:
+  #   output: false

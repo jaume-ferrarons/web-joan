@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+{% include head.html %}
+
+<body>
+    <!-- {% include header.html %} -->
+    {% include js_files.html %}
+
+    <!-- {{include.content}} -->
+    <div id="fullpage">
+        {% for tab in include.content %}
+        <!-- {% capture id %}{{ tab.id | remove:'/' | remove:'tabs' | downcase }}{% endcapture %} -->
+        {% if tab.title != "index" %}
+        <div class="section tab-base {{tab.class}} row" data-anchor="{{tab.title}}">
+            <div class="col-md-4">
+                <div>
+                    <h2>Joan Ferrarons i Llagostera</h2>
+                    <h3>traductor editorial i jurat</h3>
+                </div>
+                <img src={{tab.picture}} class="content_picture"/>
+            </div>
+            <div class="col-md-8">
+                <h1>{{tab.title}}</h1>
+                {{ tab.content }}
+            </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+
+</body>
+
+</html>

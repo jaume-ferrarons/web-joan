@@ -1,25 +1,26 @@
 ---
+language:
+title:
 ---
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-{% include head.html %}
 
 <body>
-    <!-- {% include header.html %} -->
-    {% include js_files.html %}
+    <script>
+        let userLang = navigator.language || navigator.userLanguage;
+        userLang = userLang.split("-")[0];
+        const languages = ['ca', 'es'];
+        let url;
+        if (languages.indexOf(userLang) >= 0) {
+            url = window.location.href + userLang;
+        } else {
+            url = window.location.href + 'ca';
+        }
+        window.location.replace(url);
+    </script>
 
-
-    <div id="fullpage">
-        {% for tab in site.ca %}
-        {% capture id %}{{ tab.id | remove:'/' | remove:'tabs' | downcase }}{% endcapture %}
-        <div class="section tab-base {{tab.class}}">
-            <div>
-                <h1>{{tab.title}}</h1>
-                {{ tab.content }}
-                <img src={{tab.picture}}/>
-            </div>
-        </div>
-        {% endfor %}
+    <div>
+        Redirecting to http://localhost:4000/ca
     </div>
 
 </body>

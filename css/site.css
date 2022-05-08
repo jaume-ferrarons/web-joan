@@ -1,20 +1,18 @@
+@font-face {
+    font-family: OpenSans;
+    src: url("/fonts/OpenSans-Light.ttf")
+  }
+
 .tab_content {
-    /* margin: 1cm; */
-    /* display: block   ; */
+    padding: 1cm;
+    font-family: 'OpenSans';
 }
 
-/* .fullpage {
-    position: absolute;
-    top: 0px;
-    height: 100%;
-    width: 100%;
-} */
+.tab_content a {
+    color: #FF6309;
+}
 
-/* .section {
-    min-height: 100%;
-    display: flex;
-} */
-
-header {
-    /* position: relative; */
+.content_picture {
+    max-width: 100%;
+    max-height: 100wv;
 }
