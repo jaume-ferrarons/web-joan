@@ -10,11 +10,40 @@
     font-family: 'OpenSans';
 }
 
+a {
+    text-decoration: none;
+    color: #000;
+    font-family: 'OpenSans';
+}
+
 .tab_content a {
+    color: #FF6309;
+}
+
+a.active {
     color: #FF6309;
 }
 
 .content_picture {
     max-width: 100%;
     max-height: 100wv;
+}
+
+.menu_bar {
+    position: absolute;
+    top: 0px;
+    z-index: 1000;
+    background-color: white;
+    width: 100%;
+    padding: 5px;
+}
+
+.menu_bar a {
+    text-transform: uppercase;
+}
+
+.right {
+    position: absolute;
+    right: 0px;
+    padding-right: 2px;
 }

@@ -1,0 +1,17 @@
+<span class="menu_bar">
+    <div class="right">
+        {% for lang in site.collections %}
+        {% if lang.label != "posts"%}
+        <a class="{% if lang.label == include.language %}active{% endif %}"
+            href="{{lang.label | relative_url}}">{{lang.label}}</a>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div id="section_menu">
+        {% for tab in include.content %}
+        {% if tab.title != "index" %}
+        <a href="{{include.language | relative_url}}/#{{tab.title}}" data-menuanchor="{{tab.title}}">{{tab.title}}</a>
+        {% endif %}
+        {% endfor %}
+    </div>
+</span>
