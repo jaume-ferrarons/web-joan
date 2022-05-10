@@ -3,6 +3,8 @@ title: Recerca
 class: tab_content
 picture: /images/rokhman00.jpg
 language: ca
+menu: true
+picture_position: left
 ---
 
 L’any 2022 em vaig doctorar en traducció i estudis interculturals a la Universitat Autònoma de Barcelona amb una tesi titulada La traducció de literatura ídix moderna: la judeïtat ídix i el trasllat d’endònims. El tema central del treball és la representació de la identitat cultural asquenazita en la traducció de literatura ídix moderna i se centra en les estratègies emprades per a traslladar noms propis, sobretot topònims i antropònims, en un context de minorització lingüística.

@@ -3,6 +3,8 @@ title: Biografía
 class: tab_content
 picture: /images/nietzsche00.png
 language: es
+menu: true
+picture_position: left
 ---
 
 Soy doctor en traducción y estudios interculturales por la Universidad Autónoma de Barcelona y magíster en filosofía por la Universidad de Barcelona. También he estudiado en la Universidad Humboldt de Berlín, la Universidad de Leipzig, la Universidad Internacional de Valencia y la Escuela Superior de Estudios Judaicos de Berlín.

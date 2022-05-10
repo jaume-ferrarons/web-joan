@@ -8,24 +8,34 @@
     {% include menu.html language=include.language content=include.content %}
 
     <!-- {{include.content}} -->
-    <div id="fullpage">
+    <div class="container">
         {% for tab in include.content %}
         <!-- {% capture id %}{{ tab.id | remove:'/' | remove:'tabs' | downcase }}{% endcapture %} -->
         {% if tab.title != "index" %}
-        <div class="section tab-base {{tab.class}} contaier" data-anchor="{{tab.title}}">
-            <div class="row">
-                <div class="col-md-4">
-                    <div>
-                        <h2>Joan Ferrarons i Llagostera</h2>
-                        <h4>traductor editorial i jurat</h4>
-                    </div>
-                    <img src="{{ tab.picture | relative_url }}" class="content_picture"/>
-                </div>
-                <div class="col-md-8">
-                    <h1>{{tab.title}}</h1>
-                    {{ tab.content }}
+        <div class="row section align-items-center">
+            {% if tab.picture_position == "left"%}
+            <div class="col-md-4 d-none d-sm-block">
+                <div class="image_container">
+                    <img src="{{ tab.picture | relative_url }}" class="img_content"/>
                 </div>
             </div>
+            {% endif %}
+            <div class="col-md-4 d-block d-sm-none">
+                <div class="image_container">
+                    <img src="{{ tab.picture | relative_url }}" class="img_content"/>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <h1 id="{{tab.title}}">{{tab.title}}</h1>
+                {{ tab.content }}
+            </div>
+            {% if tab.picture_position == "right"%}
+            <div class="col-md-4 d-none d-sm-block">
+                <div class="image_container">
+                    <img src="{{ tab.picture | relative_url }}" class="img_content"/>
+                </div>
+            </div>
+            {% endif %}
         </div>
         {% endif %}
         {% endfor %}

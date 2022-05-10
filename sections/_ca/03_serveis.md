@@ -3,6 +3,8 @@ title: Serveis
 class: tab_content
 picture: /images/caslon00.png
 language: ca
+menu: true
+picture_position: right
 ---
 
 ## Traducció
