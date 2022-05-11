@@ -11,4 +11,4 @@ L’any 2022 em vaig doctorar en traducció i estudis interculturals a la Univer
 
 La meva investigació s’emmarcà en les línies de recerca de traducció de textos literaris, d’una banda, i textualitat i traducció, de l’altra, i es desenvolupà sota la direcció de Montserrat Franquesa i Godia i la tutoria de Montserrat Bacardí i Tomàs.
 
-Trobareu les meves publicacions al [Dipòsit Digital de Documents](https://ddd.uab.cat/search?ln=ca&sc=1&p=Ferrarons+Llagostera) de la UAB. Així mateix, podeu consultar el meu perfil acadèmic ORCID i Google Acadèmic.
+Trobareu les meves publicacions al [Dipòsit Digital de Documents](https://ddd.uab.cat/search?ln=ca&sc=1&p=Ferrarons+Llagostera) de la UAB. Així mateix, podeu consultar el meu perfil acadèmic [ORCID](https://orcid.org/0000-0003-0201-2454) i [Google Acadèmic](https://scholar.google.cat/citations?user=d8_Z61kAAAAJ&hl=ca).
