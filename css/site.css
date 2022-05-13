@@ -20,11 +20,15 @@ a:hover {
     color: #FF6309;
 }
 
+a.active {
+    color: #FF6309;
+}
+
 .menu_bar {
     z-index: 1000;
     background-color: white;
     width: 100%;
-    padding: 5px;
+    padding: 1cm;
 }
 
 .menu_bar a {

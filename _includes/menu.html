@@ -1,5 +1,12 @@
-<span class="menu_bar">
-    <div class="right">
+<span class="row menu_bar">
+    <div class="col-8 d-none d-sm-block">
+        {% for tab in include.content %}
+        {% if tab.menu %}
+        <a href="{{include.language | relative_url}}#{{tab.title}}" data-menuanchor="{{tab.title}}">{{tab.title}}</a>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div class="col-4 text-end d-none d-sm-block">
         {% for lang in site.collections %}
         {% if lang.label != "posts"%}
         <a class="{% if lang.label == include.language %}active{% endif %}"
@@ -7,10 +14,11 @@
         {% endif %}
         {% endfor %}
     </div>
-    <div id="section_menu">
-        {% for tab in include.content %}
-        {% if tab.menu %}
-        <a href="{{include.language | relative_url}}#{{tab.title}}" data-menuanchor="{{tab.title}}">{{tab.title}}</a>
+    <div class="col d-block d-sm-none text-end">
+        {% for lang in site.collections %}
+        {% if lang.label != "posts"%}
+        <a class="{% if lang.label == include.language %}active{% endif %}"
+            href="{{lang.label | relative_url}}">{{lang.label}}</a>
         {% endif %}
         {% endfor %}
     </div>

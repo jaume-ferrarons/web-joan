@@ -5,10 +5,10 @@
 <body>
     {% include js_files.html %}
     <!-- {% include header.html %} -->
-    {% include menu.html language=include.language content=include.content %}
-
+    
     <!-- {{include.content}} -->
     <div class="container">
+        {% include menu.html language=include.language content=include.content %}
         {% for tab in include.content %}
         <!-- {% capture id %}{{ tab.id | remove:'/' | remove:'tabs' | downcase }}{% endcapture %} -->
         {% if tab.title != "index" %}
