@@ -1,7 +1,6 @@
 ---
 title: Serveis
 picture: /images/caslon00.png
-language: ca
 menu: true
 picture_position: right
 ---

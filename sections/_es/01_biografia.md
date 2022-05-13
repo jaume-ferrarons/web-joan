@@ -1,7 +1,6 @@
 ---
 title: Biografía
 picture: /images/nietzsche00.png
-language: es
 menu: true
 picture_position: right
 ---

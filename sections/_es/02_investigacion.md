@@ -1,7 +1,6 @@
 ---
 title: Investigación
 picture: /images/rokhman00.jpg
-language: ca
 menu: true
 picture_position: left
 ---

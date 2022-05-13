@@ -1,7 +1,6 @@
 ---
 title: Contacte
 picture: /images/lindenauer00.png
-language: ca
 menu: true
 picture_position: left
 ---

@@ -1,7 +1,6 @@
 ---
 title: Servicios
 picture: /images/caslon00.png
-language: es
 menu: true
 picture_position: right
 ---

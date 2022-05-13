@@ -5,4 +5,4 @@ menu: false
 picture_position: left
 ---
 
-### traductor editorial i jurat
+### literary translator

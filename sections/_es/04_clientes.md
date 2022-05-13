@@ -1,7 +1,6 @@
 ---
 title: Clientes
 picture: /images/type00.png
-language: es
 menu: true
 picture_position: left
 ---

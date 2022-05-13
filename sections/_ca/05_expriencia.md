@@ -1,7 +1,6 @@
 ---
 title: Experiència
 picture: /images/orosio00.png
-language: ca
 menu: true
 picture_position: right
 ---
