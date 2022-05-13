@@ -13,9 +13,10 @@ a {
 
 .section a {
     color: #FF6309;
+    font-weight: bold;
 }
 
-a.active {
+a:hover {
     color: #FF6309;
 }
 
@@ -73,4 +74,8 @@ a.active {
 
 .no-pad-right {
     padding-right: 0px;
+}
+
+.no-break {
+    display: inline-block;
 }

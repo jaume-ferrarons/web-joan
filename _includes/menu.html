@@ -10,7 +10,7 @@
     <div id="section_menu">
         {% for tab in include.content %}
         {% if tab.menu %}
-        <a href="#{{tab.title}}" data-menuanchor="{{tab.title}}">{{tab.title}}</a>
+        <a href="{{include.language | relative_url}}#{{tab.title}}" data-menuanchor="{{tab.title}}">{{tab.title}}</a>
         {% endif %}
         {% endfor %}
     </div>

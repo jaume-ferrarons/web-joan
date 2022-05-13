@@ -12,7 +12,7 @@
         {% for tab in include.content %}
         <!-- {% capture id %}{{ tab.id | remove:'/' | remove:'tabs' | downcase }}{% endcapture %} -->
         {% if tab.title != "index" %}
-        <div class="row section align-items-center no-padding">
+        <div class="row section align-items-center no-padding" id="{{tab.title}}">
             {% if tab.picture_position == "left"%}
             <div class="col-sm-4 d-none d-sm-block padded no-pad-right">
                 <div class="image_container">
@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="col-sm-8 padded">
-                <h1 id="{{tab.title}}">{{tab.title}}</h1>
+                <h1>{{tab.title}}</h1>
                 {{ tab.content }}
             </div>
             {% if tab.picture_position == "right"%}
@@ -39,6 +39,7 @@
         </div>
         {% endif %}
         {% endfor %}
+        {% include footer.html %}
     </div>
 
 </body>
