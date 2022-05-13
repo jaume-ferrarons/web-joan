@@ -1,6 +1,5 @@
 ---
 title: Contacte
-class: tab_content
 picture: /images/lindenauer00.png
 language: ca
 menu: true

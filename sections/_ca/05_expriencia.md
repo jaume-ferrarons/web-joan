@@ -1,6 +1,5 @@
 ---
 title: Experiència
-class: tab_content
 picture: /images/orosio00.png
 language: ca
 menu: true

@@ -1,7 +1,5 @@
-<div class="row">
-    <div class="col text-center">
-        <a href="mailto:joan.ferrarons@gmail.com">joan.ferrarons@gmail.com</a> | 
-        <a href="legal.html" class="no-break">avís legal</a> | 
-        <a href="privacy.html" class="no-break">protecció de dades</a>
-    </div>
-</div>
+{% if include.language == "ca" %}
+{% include footer_template.html legal="avís legal" privacy="protecció de dades" %}
+{% elsif include.language == "es" %}
+{% include footer_template.html legal="aviso legal" privacy="protección de datos" %}
+{% endif %}

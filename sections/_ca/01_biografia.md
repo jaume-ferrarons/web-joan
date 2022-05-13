@@ -1,6 +1,5 @@
 ---
 title: Biografia
-class: tab_content
 picture: /images/nietzsche00.png
 language: ca
 menu: true

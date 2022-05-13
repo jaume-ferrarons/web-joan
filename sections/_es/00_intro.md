@@ -1,9 +1,9 @@
 ---
 title: Joan Ferrarons i Llagostera
 picture: /images/foto_joan.jpg
-language: ca
+language: es
 menu: false
 picture_position: left
 ---
 
-### traductor editorial i jurat
+### traductor editorial y jurado

@@ -1,6 +1,5 @@
 ---
 title: Clients
-class: tab_content
 picture: /images/type00.png
 language: ca
 menu: true

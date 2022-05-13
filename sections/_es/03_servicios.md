@@ -1,10 +1,9 @@
 ---
 title: Servicios
-class: tab_content
 picture: /images/caslon00.png
 language: es
 menu: true
-picture_position: left
+picture_position: right
 ---
 
 ## Traducción
