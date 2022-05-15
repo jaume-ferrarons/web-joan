@@ -1,6 +1,6 @@
 ---
 title: Contacto
-picture: /images/lindenauer00.png
+picture: /images/foto_joan.jpg
 menu: true
 picture_position: left
 ---

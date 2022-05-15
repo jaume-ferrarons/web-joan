@@ -9,23 +9,25 @@
         {% for tab in include.content %}
         {% if tab.title != "index" %}
         <div class="row section align-items-center no-padding" id="{{tab.title}}">
-            {% if tab.picture_position == "left"%}
+            {% if tab.picture_position == "left" and tab.picture != nil%}
             <div class="col-sm-4 d-none d-sm-block padded no-pad-right">
                 <div class="image_container">
                     <img src="{{ tab.picture | relative_url }}" class="img_content"/>
                 </div>
             </div>
             {% endif %}
+            {% if tab.picture != nil%}
             <div class="d-block d-sm-none no-padding">
                 <div class="image_container image_liner">
                     <img src="{{ tab.picture | relative_url }}" class="img_content"/>
                 </div>
             </div>
+            {% endif %}
             <div class="col-sm-8 padded">
                 <h1>{{tab.title}}</h1>
                 {{ tab.content }}
             </div>
-            {% if tab.picture_position == "right"%}
+            {% if tab.picture_position == "right" and tab.picture != nil%}
             <div class="col-sm-4 d-none d-sm-block padded no-pad-left">
                 <div class="image_container">
                     <img src="{{ tab.picture | relative_url }}" class="img_content"/>
