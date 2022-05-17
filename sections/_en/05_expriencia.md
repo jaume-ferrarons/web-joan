@@ -1,4 +1,5 @@
 ---
+layout: section
 title: Experience
 picture: /images/orosio00.png
 menu: true

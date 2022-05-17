@@ -1,4 +1,5 @@
 ---
+layout: section
 title: Biografia
 picture: /images/nietzsche00.png
 menu: true

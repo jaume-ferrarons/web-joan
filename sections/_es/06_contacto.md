@@ -1,4 +1,5 @@
 ---
+layout: section
 title: Contacto
 picture: /images/foto_joan.jpg
 menu: true

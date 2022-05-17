@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="{{include.language}}">
+
+{% include head.html %}
+
+<body>
+    {% include js_files.html %}
+    <div class="container">
+        {% include language_menu.html %}
+            <div class="row">
+                <div class="col-sm-4 section text-end">
+                    <h3>Joan Ferrarons i Llagostera</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4 section text-end">
+                    <h4>traductor editorial i jurat</h4>
+                </div>
+                <div class="col-sm-8 align-bottom">
+                    {% include section_menu.html %}
+                </div>
+            </div>
+            <div class="row section">
+                {% if page.picture == nil%}
+                    {{content}} 
+                {% else %}
+                    <div class="col-sm-4 no-padding">
+                        <div class="image_container">
+                            <img src="{{ page.picture | relative_url }}" class="img_content"/>
+                        </div>
+                    </div>
+                    <div class="col-sm-8">
+                        {{content}} 
+                    </div>
+                {% endif %}
+            </div>
+        {% include footer.html %}
+    </div>
+</body>
+</html>

@@ -1,8 +1,8 @@
 ---
+layout: section
 menu: false
 title: index
 ---
-{% include info_template_start.html content=site.en language='en' %}
 Processing of (potential) customers’ data and third parties’ data provided by (potential) customers
 
 The provision of translation, sworn translation and proofreading services involves receiving and processing documents that may contain personal data of clients, potential clients and third parties. The documents provided by potential clients will only be used to prepare a translation, sworn translation or proofreading quote. If the quote is rejected, the documents will be deleted immediately; if the quote is accepted, they will be deleted when the service provision is concluded; and if the client fails to reply, they will be deleted a month after the quote was requested. By accepting the quote, the client allows the service provider to process the data contained in the documents provided in accordance with the contracted service and to store them until the service is completed. None of these data will be passed on to third parties without the explicit permission of the client or potential client, unless required by law.
@@ -14,4 +14,3 @@ The client or potential client has the right to access, correct and delete the d
 Data controller: Joan Ferrarons i Llagostera
 
 Contact e-mail address: <a href="mailto:joan.ferrarons@gmail.com">joan.ferrarons@gmail.com</a>
-{% include info_template_end.html language='en' %}

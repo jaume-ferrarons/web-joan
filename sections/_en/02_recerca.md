@@ -1,4 +1,5 @@
 ---
+layout: section
 title: PhD
 picture: /images/rokhman00.jpg
 menu: true

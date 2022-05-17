@@ -1,4 +1,5 @@
 ---
+layout: section
 title: Experiencia
 class: tab_content
 picture: /images/orosio00.png

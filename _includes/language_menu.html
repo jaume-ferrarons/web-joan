@@ -1,0 +1,10 @@
+<div class="row">
+    <span class="menu_bar text-end no-v-padding">
+        {% for lang in site.collections %}
+        {% if lang.label != "posts"%}
+        <a class="{% if lang.label == page.collection %}active{% endif %}"
+            href="{{lang.label | relative_url}}">{{lang.label}}</a>
+        {% endif %}
+        {% endfor %}
+    </span>
+</div>

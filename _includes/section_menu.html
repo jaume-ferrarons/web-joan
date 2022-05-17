@@ -1,0 +1,9 @@
+<span class="menu_bar no-padding">
+    {% assign collection = site.collections | where: "label", page.collection | first %}
+    {% for tab in collection.docs %}
+    {% if tab.menu %}
+    <a href="{{tab.url | relative_url}}" 
+        class="{% if tab.title == page.title %}active{% endif %}">{{tab.title}}</a>
+    {% endif %}
+    {% endfor %}
+</span>

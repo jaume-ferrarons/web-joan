@@ -1,5 +1,6 @@
 ---
-title: Contacte
+layout: section
+title: Contact
 picture: /images/foto_joan.jpg
 menu: true
 picture_position: left

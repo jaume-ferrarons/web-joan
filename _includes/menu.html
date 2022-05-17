@@ -1,15 +1,17 @@
 <span class="row menu_bar">
     <div class="col-8 d-none d-sm-block no-padding">
-        {% for tab in include.content %}
+        {% assign collection = site.collections | where: "label", page.collection | first %}
+        {% for tab in collection.docs %}
         {% if tab.menu %}
-        <a href="{{include.language | relative_url}}#{{tab.title}}" data-menuanchor="{{tab.title}}">{{tab.title}}</a>
+        <a href="{{tab.url | relative_url}}" 
+            class="{% if tab.title == page.title %}active{% endif %}">{{tab.title}}</a>
         {% endif %}
         {% endfor %}
     </div>
     <div class="col-4 text-end d-none d-sm-block no-padding">
         {% for lang in site.collections %}
         {% if lang.label != "posts"%}
-        <a class="{% if lang.label == include.language %}active{% endif %}"
+        <a class="{% if lang.label == page.collection %}active{% endif %}"
             href="{{lang.label | relative_url}}">{{lang.label}}</a>
         {% endif %}
         {% endfor %}
@@ -17,7 +19,7 @@
     <div class="col d-block d-sm-none text-end no-padding">
         {% for lang in site.collections %}
         {% if lang.label != "posts"%}
-        <a class="{% if lang.label == include.language %}active{% endif %}"
+        <a class="{% if lang.label == page.collection %}active{% endif %}"
             href="{{lang.label | relative_url}}">{{lang.label}}</a>
         {% endif %}
         {% endfor %}

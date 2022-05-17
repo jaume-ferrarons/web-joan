@@ -1,8 +1,8 @@
 ---
+layout: section
 menu: false
 title: index
 ---
-{% include info_template_start.html content=site.ca language='ca' %}
 Tractament de dades de clients (potencials) i de tercers proporcionades per clients (potencials)
 
 La prestació de serveis de traducció, traducció jurada i correcció implica la recepció i el tractament de documents que poden contenir dades personals de clients, clients potencials i tercers. Els documents proporcionats per clients potencials només s’empraran per a elaborar un pressupost de traducció, traducció jurada o correcció. Si el client potencial rebutja el pressupost, els documents s’eliminaran immediatament; si l’accepta, s’eliminaran quan conclogui la prestació del servei; i si no contesta, s’eliminaran quan hagi transcorregut un mes d’ençà que sol·licités el pressupost. Quan un client potencial accepta el pressupost, accepta alhora que les dades contingudes en els documents proporcionats es tractin d’acord amb la finalitat de prestar el servei contractat i que es desin fins que conclogui la prestació del servei. Cap d’aquestes dades no es lliurarà a tercers sense el permís explícit del client o client potencial si no és per imperatiu legal.
@@ -13,5 +13,4 @@ El client o client potencial té dret a accedir, rectificar i suprimir les dades
 
 Responsable del tractament: Joan Ferrarons i Llagostera
 
-Adreça electrònica de contacte: <a href="mailto:joan.ferrarons@gmail.com">joan.ferrarons@gmail.com</a>
-{% include info_template_end.html language='ca' %}
+Adreça electrònica de contacte: [joan.ferrarons@gmail.com](mailto:joan.ferrarons@gmail.com).

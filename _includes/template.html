@@ -5,8 +5,9 @@
 <body>
     {% include js_files.html %}
     <div class="container">
-        {% include menu.html language=include.language content=include.content %}
-        {% for tab in include.content %}
+        {% include menu.html %}
+        {% assign collection = site.collections | where: "label", page.collection | first %}
+        {% for tab in collection.docs %}
         {% if tab.title != "index" %}
         <div class="row section align-items-center no-padding" id="{{tab.title}}">
             {% if tab.picture_position == "left" and tab.picture != nil%}

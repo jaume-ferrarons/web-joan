@@ -1,4 +1,5 @@
 ---
+layout: section
 title: Investigación
 picture: /images/rokhman00.jpg
 menu: true

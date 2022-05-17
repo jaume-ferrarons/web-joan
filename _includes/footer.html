@@ -1,6 +1,6 @@
-{% if include.language == "ca" %}
+{% if page.collection == "ca" %}
 {% include footer_template.html legal="avís legal" privacy="protecció de dades" %}
-{% elsif include.language == "es" %}
+{% elsif page.collection == "es" %}
 {% include footer_template.html legal="aviso legal" privacy="protección de datos" %}
 {% else %}
 {% include footer_template.html legal="legal notice" privacy="data protection" %}

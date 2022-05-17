@@ -1,4 +1,5 @@
 ---
+layout: section
 title: Serveis
 picture: /images/caslon00.png
 menu: true

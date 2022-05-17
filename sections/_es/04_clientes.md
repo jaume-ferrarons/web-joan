@@ -1,4 +1,5 @@
 ---
+layout: section
 title: Clientes
 picture: /images/type00.png
 menu: true
