@@ -1,7 +1,6 @@
 ---
-title: Joan Ferrarons i Llagostera
+title: ""
 menu: false
-picture_position: left
+kind: intro
 ---
-
-### literary translator
+Joan Ferrarons i Llagostera (BA in Translation, MA in Philosophy) is a professional translator specialising in literature, humanities as well as legal and academic documents.

@@ -4,41 +4,52 @@
 
 <body>
     {% include js_files.html %}
-    <div class="container">
-        {% include menu.html %}
+    <div class="d-none d-sm-block full-height">
+        <!-- Large screen -->
+        <div class="container full-height">
+            {% include desktop_header.html %}
+            {% assign collection = site.collections | where: "label", page.collection | first %}
+            {% for tab in collection.docs %}
+            {% if tab.kind == "intro" %}
+            <div class="row section">
+                <div class="col-sm-4 no-padding">
+                </div>
+                <div class="col-sm-8">
+                    {{tab.content}} 
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        {% include footer.html %}
+    </div>
+    <div class="container d-block d-sm-none">
+        <!-- Small screen -->
+        {% include language_menu.html %}
         {% assign collection = site.collections | where: "label", page.collection | first %}
         {% for tab in collection.docs %}
         {% if tab.title != "index" %}
         <div class="row section align-items-center no-padding" id="{{tab.title}}">
-            {% if tab.picture_position == "left" and tab.picture != nil%}
-            <div class="col-sm-4 d-none d-sm-block padded no-pad-right">
-                <div class="image_container">
-                    <img src="{{ tab.picture | relative_url }}" class="img_content"/>
-                </div>
-            </div>
-            {% endif %}
             {% if tab.picture != nil%}
-            <div class="d-block d-sm-none no-padding">
+            <div class="no-padding">
                 <div class="image_container image_liner">
                     <img src="{{ tab.picture | relative_url }}" class="img_content"/>
                 </div>
             </div>
             {% endif %}
-            <div class="col-sm-8 padded">
-                <h1>{{tab.title}}</h1>
+            <div class="col padded">
+                {% if tab.kind == "intro" %}
+                    <h1 class="letter-spacing-15">Joan Ferrarons i Llagostera</h1>
+                    {% include subtitle.html %}
+                {% else %}
+                    <h1>{{tab.title}}</h1>
+                {% endif %}
                 {{ tab.content }}
             </div>
-            {% if tab.picture_position == "right" and tab.picture != nil%}
-            <div class="col-sm-4 d-none d-sm-block padded no-pad-left">
-                <div class="image_container">
-                    <img src="{{ tab.picture | relative_url }}" class="img_content"/>
-                </div>
-            </div>
-            {% endif %}
         </div>
         {% endif %}
         {% endfor %}
-        {% include footer.html language=include.language%}
+        {% include footer.html %}
     </div>
 
 </body>

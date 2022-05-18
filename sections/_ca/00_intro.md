@@ -1,10 +1,6 @@
 ---
-title: Joan Ferrarons i Llagostera
+title: ""
 menu: false
-picture_position: left
+kind: intro
 ---
-
-### traductor editorial i jurat
-
-
 Joan Ferrarons i Llagostera és un traductor editorial especialitzat en literatura i humanitats. De l’any 2012 ençà exerceix com a traductor jurat de documents legals i acadèmics.

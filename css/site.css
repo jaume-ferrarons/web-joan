@@ -5,6 +5,14 @@
     src: url("{{ "/fonts/OpenSans-Light.ttf" | relative_url }} ")
 }
 
+html, body {
+    height: 100%;
+}
+
+.full-height {
+    height: 100%;
+}
+
 a {
     text-decoration: none;
     color: #000;
@@ -85,4 +93,20 @@ a.active {
 
 .no-break {
     display: inline-block;
+}
+
+.container {
+    margin-bottom: -25px;
+}
+
+.footer {
+    height: 25px;
+}
+
+.letter-spacing-05 {
+    letter-spacing: -0.5px;
+}
+
+.letter-spacing-15 {
+    letter-spacing: -1.5px;
 }
