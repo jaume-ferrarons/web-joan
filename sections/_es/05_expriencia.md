@@ -4,7 +4,6 @@ title: Experiencia
 class: tab_content
 picture: /images/orosio00.png
 menu: true
-picture_position: right
 ---
 
 Joan Ferrarons i Llagostera acumula una vasta experiencia como profesional de la lengua. Durante los últimos diez años ha traducido una treintena de títulos y ha corregido una docena de libros.

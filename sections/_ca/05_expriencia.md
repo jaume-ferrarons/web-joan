@@ -3,7 +3,6 @@ layout: section
 title: Experiència
 picture: /images/orosio00.png
 menu: true
-picture_position: right
 ---
 
 Al llarg dels anys he acumulat una experiència important com a professional de la llengua, traduint una cinquantena de títols i corregint-ne una dotzena més. Al catàleg [CCUC](https://ccuc.csuc.cat/discovery/search?query=creator,contains,Joan%20Ferrarons,AND&tab=TOT&search_scope=DiscoveryNetwork&sortby=date_d&vid=34CSUC_NETWORK:CSUC_CCUC_UNION&facet=rtype,include,books&lang=ca&mode=advanced&offset=0) trobareu la majoria de les meves traduccions.

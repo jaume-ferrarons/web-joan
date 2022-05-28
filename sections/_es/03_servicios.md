@@ -3,7 +3,6 @@ layout: section
 title: Servicios
 picture: /images/caslon00.png
 menu: true
-picture_position: right
 ---
 
 ## Traducción

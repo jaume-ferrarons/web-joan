@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+{% if page.collection == "yi" %}
+<html dir="rtl" lang="{{include.language}}">
+{% else %}
 <html dir="ltr" lang="{{include.language}}">
+{% endif %}
 
 {% include head.html %}
 

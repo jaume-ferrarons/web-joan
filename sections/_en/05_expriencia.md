@@ -3,7 +3,6 @@ layout: section
 title: Experience
 picture: /images/orosio00.png
 menu: true
-picture_position: right
 ---
 
 Joan Ferrarons has a vast experience as a language service provider. Over the last ten years he has translated around thirty books and proofread a dozen more.

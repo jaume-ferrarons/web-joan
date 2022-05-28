@@ -3,7 +3,6 @@ layout: section
 title: About
 picture: /images/nietzsche00.png
 menu: true
-picture_position: right
 ---
 
 Joan Ferrarons i Llagostera holds a degree in translation and interpretation from the Universitat Autònoma de Barcelona and a master's degree in philosophy from the Universitat de Barcelona. He has also studied at the Humboldt-Universität zu Berlin, the Universität Leipzig, the Jüdische Volkshochschule in Berlin and the Maison de la culture yiddish in Paris.

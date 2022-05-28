@@ -3,7 +3,6 @@ layout: section
 title: Clientes
 picture: /images/type00.png
 menu: true
-picture_position: left
 ---
 
 A lo largo de los últimos diez años, Joan Ferrarons i Llagostera ha prestado servicios a más de setenta clientes, sobre todo editoriales. Una colaboración especialmente larga y estrecha le une con Club Editor, Angle Editorial y los servicios editoriales del Ayuntamiento de Barcelona.

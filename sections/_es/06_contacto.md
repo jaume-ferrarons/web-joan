@@ -3,7 +3,6 @@ layout: section
 title: Contacto
 picture: /images/foto_joan.jpg
 menu: true
-picture_position: left
 ---
 
 Para ponerse en contacto conmigo, escríbame a <a href="mailto:joan.ferrarons@gmail.com">joan.ferrarons@gmail.com</a>. Será un placer atender sus consultas.

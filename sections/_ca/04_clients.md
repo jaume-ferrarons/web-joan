@@ -3,7 +3,6 @@ layout: section
 title: Clients
 picture: /images/type00.png
 menu: true
-picture_position: left
 ---
 
 Durant els últims catorze anys he treballat per a una setantena de clients, sobretot editorials. Amb Club Editor, Angle Editorial i els Serveis Editorials de l’Ajuntament de Barcelona m’hi uneix una col·laboració especialment llarga i estreta.
