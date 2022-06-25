@@ -10,7 +10,7 @@
     {% include js_files.html %}
     <div class="d-none d-sm-block full-height">
         <!-- Large screen -->
-        <div class="container full-height">
+        <div class="container full-min-height">
             {% include desktop_header.html %}
             {% assign collection = site.collections | where: "label", page.collection | first %}
             {% for tab in collection.docs %}

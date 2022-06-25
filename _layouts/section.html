@@ -9,8 +9,13 @@
 
 <body>
     {% include js_files.html %}
-    <div class="container full-height">
-        {% include desktop_header.html %}
+    <div class="container full-min-height">
+        <div class="d-none d-sm-block">
+            {% include desktop_header.html %}
+        </div>
+        <div class="d-block d-sm-none">
+            {% include language_menu.html %}
+        </div>
         <div class="row section">
             {% if page.picture == nil%}
                 {{content}} 
