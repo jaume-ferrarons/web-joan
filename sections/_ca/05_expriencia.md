@@ -9,7 +9,7 @@ Al llarg dels anys he acumulat una experiència important com a professional de 
 
 Entre les meves traduccions de l’alemany destaquen <i>Lliçó d’alemany</i> de Siegfried Lenz, <i>La balança del temps</i> i <i>Kruso</i> de Lutz Seiler, i <i>Carta al pare</i>, <i>Paràboles i paradoxes</i> i <i>El castell</i> de Franz Kafka, que meresqué el V Premi PEN Català de Traducció. També de l’alemany he traduït dues obres d’autors guardonats amb el Premi Nobel: <i>La infantesa del bruixot</i> de Hermann Hesse i <i>Abaixeu les armes!</i> de Bertha von Suttner.
 
-En l’àmbit de la filosofia, he traduït <i>El naixement de la tragèdia</i> de Friedrich Nietzsche, <i>No-coses</i> de Byung-Chul Han, <L’home dalt del pont</i> de Günther Anders, <i>Desobeir</i> de Frédéric Gros i <i>El temps regalat</i> d’Andrea Köhler.
+En l’àmbit de la filosofia, he traduït <i>El naixement de la tragèdia</i> de Friedrich Nietzsche, <i>No-coses</i> de Byung-Chul Han, <i>L’home dalt del pont</i> de Günther Anders, <i>Desobeir</i> de Frédéric Gros i <i>El temps regalat</i> d’Andrea Köhler.
 
 Pròximament arribarà a les llibreries la meva primera traducció de l’ídix, la novel·la <i>A passes cegues per la terra</i> de Leib Ròkhman.
 
