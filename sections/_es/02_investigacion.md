@@ -5,7 +5,7 @@ picture: /images/rokhman00.jpg
 menu: true
 ---
 
-En 2022 me doctoré en traducción y estudios interculturales en la Universidad Autónoma de Barcelona con una tesis titulada _La traducción de literatura yidis moderna: la judeidad yidis y el traslado de endónimos_. El tema central del trabajo es la representación de la identidad cultural asquenazí en la traducción de literatura yidis moderna y se centra en las estrategias empleadas para trasladar nombres propios, sobre todo topónimos y antropónimos, en un contexto de minorización lingüística.
+En 2022 concluí un doctorado en traducción y estudios interculturales en la Universidad Autónoma de Barcelona con una tesis titulada <i>La traducción de literatura yidis moderna: la judeidad yidis y el traslado de endónimos</i>. El tema central del trabajo es la representación de la identidad cultural asquenazí en la traducción de literatura yidis moderna y se centra en las estrategias empleadas para trasladar nombres propios, sobre todo topónimos y antropónimos, en un contexto de minorización lingüística.
 
 Mi tesis se enmarcó en las líneas de investigación de traducción de textos literarios, por un lado, y textualidad y traducción, por el otro, y se desarrolló bajo la dirección de Montserrat Franquesa i Godia y la tutoría de Montserrat Bacardí i Tomàs.
 
