@@ -6,12 +6,12 @@ picture: /images/orosio00.png
 menu: true
 ---
 
-Joan Ferrarons i Llagostera acumula una vasta experiencia como profesional de la lengua. Durante los últimos diez años ha traducido una treintena de títulos y ha corregido una docena de libros.
+A lo largo de los años he acumulado una importante experiencia como profesional de la lengua, traduciendo más de cincuenta volúmenes y corrigiendo una docena de libros más. En el catálogo [CCUC](https://ccuc.csuc.cat/discovery/search?query=creator,contains,Joan%20Ferrarons,AND&tab=TOT&search_scope=DiscoveryNetwork&sortby=date_d&vid=34CSUC_NETWORK:CSUC_CCUC_UNION&facet=rtype,include,books&lang=ca&mode=advanced&offset=0) hallarán la mayoría de mis traducciones.
 
-Entre sus traducciones del alemán destacan El castell de Franz Kafka (2019, Premio PEN Catalán de Traducción), La balança del temps i Kruso de Lutz Seiler (próximamente, 2017), Lliçó d’alemany de Siegfried Lenz (2016) y El naixement de la tragèdia de Friedrich Nietzsche (2014).
+Entre mis traducciones del alemán destacan <i>Lliçó d’alemany</i> de Siegfried Lenz, <i>La balança del temps</i> y <i>Kruso</i> de Lutz Seiler, y <i>Carta al pare</i>, <i>Paràboles i paradoxes</i> y <i>El castell</i> de Franz Kafka, traducción esta que mereció el V Premio PEN Catalán de Traducción. También del alemán he traducido dos obras de autores guardonados con el Premio Nobel: <i>La infantesa del bruixot</i> de Hermann Hesse y <i>Abaixeu les armes!</i> de Bertha von Suttner.
 
-También del alemán ha traducido dos obras de autores galardonados con el Premio Nobel: La infantesa del bruixot de Hermann Hesse (2017) y Abaixeu les armes! de Bertha von Suttner (2014).
+En el ámbito de la filosofía, he traducido <i>El naixement de la tragèdia</i> de Friedrich Nietzsche, <i>No-coses</i> de Byung-Chul Han, <i>L’home dalt del pont</i> de Günther Anders, <i>Desobeir</i> de Frédéric Gros y <i>El temps regalat</i> de Andrea Köhler.
 
-Del francés ha traducido Desobeir de Frédéric Gros (2018) y del inglés, Reinos desaparecidos de Norman Davies en colaboración con Joan Fontcuberta (2013).
+Pronto llegará a las librerías mi primera traducción del yidis: la novela <i>A passes cegues per la terra</i> de Leyb Rokhman.
 
-Además, fue traductor interno en el Parlamento Europeo (2013) y en el Ayuntamiento de Barcelona (2012) así como traductor externo para el Liceo de Barcelona y el Teatro Real de Madrid (2009/10).
+Para leer reseñas sobre algunas de mis traducciones, pueden consultar la base de datos [Traces](https://traces.uab.cat/search?ln=ca&sc=1&p=Joan+Ferrarons&f=&action_search=Cerca&c=tracesref&c=tracesbib&c=videos).
