@@ -6,7 +6,7 @@ picture: /images/orosio00.png
 menu: true
 ---
 
-A lo largo de los años he acumulado una importante experiencia como profesional de la lengua, traduciendo más de cincuenta volúmenes y corrigiendo una docena de libros más. En el catálogo [CCUC](https://ccuc.csuc.cat/discovery/search?query=creator,contains,Joan%20Ferrarons,AND&tab=TOT&search_scope=DiscoveryNetwork&sortby=date_d&vid=34CSUC_NETWORK:CSUC_CCUC_UNION&facet=rtype,include,books&lang=ca&mode=advanced&offset=0) hallarán la mayoría de mis traducciones.
+A lo largo de los años he acumulado una importante experiencia como profesional de la lengua, traduciendo más de cincuenta títulos y corrigiendo una docena de volúmenes más. En el catálogo [CCUC](https://ccuc.csuc.cat/discovery/search?query=creator,contains,Joan%20Ferrarons,AND&tab=TOT&search_scope=DiscoveryNetwork&sortby=date_d&vid=34CSUC_NETWORK:CSUC_CCUC_UNION&facet=rtype,include,books&lang=ca&mode=advanced&offset=0) hallarán la mayoría de mis traducciones.
 
 Entre mis traducciones del alemán destacan <i>Lliçó d’alemany</i> de Siegfried Lenz, <i>La balança del temps</i> y <i>Kruso</i> de Lutz Seiler, y <i>Carta al pare</i>, <i>Paràboles i paradoxes</i> y <i>El castell</i> de Franz Kafka, traducción esta que mereció el V Premio PEN Catalán de Traducción. También del alemán he traducido dos obras de autores guardonados con el Premio Nobel: <i>La infantesa del bruixot</i> de Hermann Hesse y <i>Abaixeu les armes!</i> de Bertha von Suttner.
 
