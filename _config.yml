@@ -61,11 +61,7 @@ collections:
     output: true
   de:
     output: true
-  en:
-    output: true
   es:
-    output: true
-  fr:
     output: true
   yi:
     output: true
