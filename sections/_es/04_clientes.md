@@ -5,7 +5,7 @@ picture: /images/type00.png
 menu: true
 ---
 
-A lo largo de los últimos quince años, he trabajado para más de setenta clientes, sobre todo editoriales. Una colaboración especialmente larga y estrecha me une con Club Editor, Angle Editorial y los servicios editoriales del Ayuntamiento de Barcelona.
+Durante los últimos quince años he trabajado para más de setenta clientes, sobre todo editoriales. Una colaboración especialmente larga y estrecha me une con Club Editor, Angle Editorial y los servicios editoriales del Ayuntamiento de Barcelona.
 
 También he trabajado para Àmbit, Ara Llibres, Barcelona Llibres, Cedres Vermells, Cossetània, Diëresis, Difusión, Ediciones del Serbal, Edicions 62, Flâneur, Éphémère
  Éditeur, Galaxia Gutenberg, La Magrana, Lectio, Penguin Random House, Picobello Publishing, Pons Idiomas, Raig Verd, Rayo Verde, Trío Editorial y Vicens Vives.
