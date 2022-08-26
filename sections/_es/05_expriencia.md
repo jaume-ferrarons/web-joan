@@ -14,4 +14,4 @@ En el ámbito de la filosofía, he traducido <i>El naixement de la tragèdia</i>
 
 Pronto llegará a las librerías mi primera traducción del yidis: la novela <i>A passes cegues per la terra</i> de Leyb Rokhman.
 
-Para leer reseñas sobre algunas de mis traducciones, pueden consultar la base de datos [Traces](https://traces.uab.cat/search?ln=ca&sc=1&p=Joan+Ferrarons&f=&action_search=Cerca&c=tracesref&c=tracesbib&c=videos).
+Para leer reseñas sobre algunas de mis traducciones, puede consultar la base de datos [Traces](https://traces.uab.cat/search?ln=ca&sc=1&p=Joan+Ferrarons&f=&action_search=Cerca&c=tracesref&c=tracesbib&c=videos).
