@@ -8,4 +8,4 @@ menu: true
 
 Meine Promotion wurde unter der Leitung von Montserrat Franquesa i Godia und der Betreuung von Montserrat Bacardí i Tomàs im Rahmen der Forschungslinien Übersetzung literarischer Texte sowie Textualität und Übersetzung durchgeführt.
 
-Im [Online-Repository](https://ddd.uab.cat/search?ln=en&sc=1&p=Ferrarons+Llagostera) meiner Universität finden Sie meine Publikationen, und auf ORCID und Google Scholar können Sie mein akademisches Profil einsehen.
+Im [Online-Repository](https://ddd.uab.cat/search?ln=en&sc=1&p=Ferrarons+Llagostera) meiner Universität finden Sie meine Publikationen, und auf [ORCID](https://orcid.org/0000-0003-0201-2454) und [Google Scholar](https://scholar.google.cat/citations?user=d8_Z61kAAAAJ&hl=de) können Sie mein akademisches Profil einsehen.
