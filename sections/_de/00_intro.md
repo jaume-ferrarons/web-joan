@@ -3,4 +3,4 @@ title: ""
 menu: false
 kind: intro
 ---
-Joan Ferrarons i Llagostera ist als freier Literatur- und ermächtigter Urkundenübersetzer tätig. Er übersetzt sowohl Literatur und Sachbücher als auch juristische und akademische Dokumente.
+Joan Ferrarons i Llagostera arbeitet als freier Übersetzer in den Bereichen Literatur und Geisteswissenschaften und ist als beglaubigter Übersetzer für Deutsch und Katalanisch ermächtigt.
