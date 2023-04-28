@@ -4,8 +4,10 @@ title: Biografie
 picture: /images/nietzsche00.png
 menu: true
 ---
-Joan Ferrarons i Llagostera studierte Übersetzung und Dolmetschen an der Autonomen Universität Barcelona und erwarb einen Master in Philosophie von der Universität Barcelona. Ebenso besuchte er die Humboldt-Universität zu Berlin, die Universität Leipzig, die Internationale Universität València und die Jüdische Volkshochschule Berlin.
+Ich studierte Übersetzen und Dolmetschen an der Autonomen Universität Barcelona und erwarb einen Master in Sprachphilosophie an der Universität Barcelona. Außerdem besuchte ich die Humboldt-Universität zu Berlin, die Universität Leipzig und die Jüdische Volkshochschule in Berlin, wo ich mich in den Bereich Literatur und Kulturwissenschaft weiterbildete. 2022 schloss ich meine Promotion in Übersetzung und interkulturellen Studien an der Autonomen Universität Barcelona ab.
 
-Er ist Mitglied des spanischen Autoren- und Verlegerverbandes Cedro sowie der Forschungsgruppe für Ethnopoetische Studien der Katalanischen Gesellschaft für Sprache und Literatur, welche dem Institut für Katalanische Studien untersteht. Er hielt Vorträge und leitete Workshops an zahlreichen Institutionen in verschiedenen Ländern. 2015 nahm er am 12. Atriumsgespräch des Europäischen Übersetzer-Kollegiums teil.
+Ich habe für das Europäische Parlament, das Gran Teatre del Liceu in Barcelona und das Königliche Theater in Madrid gearbeitet, vor allem aber war ich freiberuflich tätig.
 
-Neben seiner freiberuflichen Arbeit ist er zurzeit an der Fakultät für Übersetzung und Dolmetschen der Autonomen Universität Barcelona als Lehrbeauftragter tätig.
+Zu den Büchern, die ich ins Katalanische übersetzt habe, gehören Hermann Hesses ›Die Kindheit des Zauberers‹, Friedrich Nietzsches ›Die Geburt der Tragödie‹, Bertha von Suttners ›Die Waffen nieder!‹, Siegrfried Lenzs ›Deutschstunde‹ und Franz Kafkas ›Das Schloss‹, das mit dem 5. Übersetzerpreis des Katalanischen PEN-Klubs ausgezeichnet wurde.
+
+Derzeit bin ich als Lehrbeauftragte an der Fakultät für Übersetzen und Dolmetschen der Autonomen Universität Barcelona tätig und arbeite für die Abteilung Veröffentlichungen der Stadt Barcelona.
