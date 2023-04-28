@@ -4,14 +4,6 @@ title: Leistungen
 picture: /images/caslon00.png
 menu: true
 ---
-## Übersetzung
-Arbeitssprachen: Deutsch, Katalanisch, Englisch, Französisch, Griechisch, Jiddisch und Spanisch. Durch die Zusammenarbeit mit anderen Übersetzern können auch Dienstleistungen in weiteren Sprachkombinationen angeboten werden.
+Ich biete Übersetzungen in den Bereichen Literatur und Geisteswissenschaften an. Meine Arbeitssprachen sind Deutsch, Spanisch, Katalanisch, Französisch, Englisch und Jiddisch. Durch meine Zusammenarbeit mit mehreren Kolleginnen und Kollegen kann ich auch Aufträge in anderen Sprachkombinationen annehmen.
 
-## Beeidigte Übersetzung
-Arbeitssprachen: Katalanisch und Deutsch. Druck auf offiziellem Papier und Eilsendung per Einschreiben.
-
-## Korrektur
-Orthographische, grammatikalische und stilistische Verbesserung von Texten auf Spanisch und Katalanisch. Fahnenkorrektur, Terminologiestandardisierung, sprachliche Beratung und Textlokalisierung.
-
-## Textproduktion
-Abfassung von Texten und Zusammenfassungen, Transkription mündlicher Texte, Untertitlung.
+Als von der Regierung Kataloniens ermächtigter Übersetzer für Deutsch und Katalanisch bin ich befugt, <b>beglaubigte Übersetzungen</b> von Dokumenten wie Urkunden, Studien- oder Arbeitszeugnisse, Berichte, Verträge usw. zu erstellen.
