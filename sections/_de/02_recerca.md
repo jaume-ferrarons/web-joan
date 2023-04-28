@@ -4,6 +4,8 @@ title: Promotion
 picture: /images/rokhman00.jpg
 menu: true
 ---
-Seit Oktober 2018 promoviert Joan Ferrarons im Bereich Übersetzung und interkulturellen Studien an der Autonomen Universität Barcelona. Das Thema seiner Dissertation ist die Darstellung der aschkenasischen Kulturidentität in der Übersetzung zeitgenössischer jiddischer Literatur. Im Mittelpunkt seiner Forschung steht die Translation von Personen- und Ortsnamen sowie religionsbezogenen Realia.
+2022 schloss ich meine Promotion in Übersetzen und interkulturellen Studien an der Autonomen Universität Barcelona mit einer Dissertation über moderne Jiddische Literatur ab. Meine Doktorarbeit befasste sich mit der Darstellung der kulturellen Identität der aschkenasischen Juden in den Übersetzungen von moderner jiddischer Literatur und untersuchte die Strategien zur Übertragung von Eigennamen, insbesondere von Orts- und Personennamen, im Kontext der sprachlichen Minorisierung.
 
-Seine Forschungsarbeit entwickelt sich unter der Leitung von Dr. Montserrat Franquesa i Godia und der Betreuung von Dr. Montserrat Bacardí i Tomàs, und untersteht den Forschungslinien literarische Übersetzung einerseits und Textualität und Übersetzung andererseits.
+Meine Promotion wurde unter der Leitung von Montserrat Franquesa i Godia und der Betreuung von Montserrat Bacardí i Tomàs im Rahmen der Forschungslinien Übersetzung literarischer Texte sowie Textualität und Übersetzung durchgeführt.
+
+Im [Online-Repository](https://ddd.uab.cat/search?ln=en&sc=1&p=Ferrarons+Llagostera) meiner Universität finden Sie meine Publikationen, und auf ORCID und Google Scholar können Sie mein akademisches Profil einsehen.
