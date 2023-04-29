@@ -1,6 +1,6 @@
 ---
 layout: section
-title: Promotion
+title: Forschung
 picture: /images/rokhman00.jpg
 menu: true
 ---
