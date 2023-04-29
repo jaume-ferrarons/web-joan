@@ -4,15 +4,6 @@ title: Servicios
 picture: /images/caslon00.png
 menu: true
 ---
+<b>Traducción /</b> Ofrezco traducciones en los ámbitos de la literatura y las humanidades, con el alemán, el castellano, el catalán, el francés, el inglés y el yidis como lenguas de partida y el catalán y el castellano como lenguas de llegada. A través de la colaboración con numerosos profesionales, también puedo aceptar encargos en otras combinaciones lingüísticas.
 
-<b>Traducción /</b>
-En las siguientes lenguas de trabajo: alemán, castellano, catalán, francés, griego, inglés y yidis. Servicios en otras combinaciones lingüísticas gracias a la colaboración con numerosos profesionales.
-
-<b>Traducción jurada /</b>
-Elaboración de traducciones en alemán y catalán. Impresión en papel oficial timbrado. Envío por correo urgente o certificado.
-
-<b>Corrección /</b>
-Revisión ortotipográfica, gramatical y de estilo, tanto de originales como de galeradas, en castellano y catalán. Normalización de documentos, asesoramiento lingüístico y localización de textos.
-
-<b>Producción de textos /</b>
-Redacción de documentos y resúmenes, transcripción de textos orales, elaboración de subtítulos y de informes editoriales.
+<b>Traducción jurada /</b> Como traductor oficial habilitado por la Generalitat de Cataluña, puedo ofrecer traducciones juradas en alemán y catalán de todo tipo de documentos, como certificados de nacimiento o matrimonio, títulos y expedientes académicos, informes laborales o contratos. Una traducción jurada siempre está provista de la firma y el sello del traductor para que las autoridades o sus destinatarios reconozcan su validez oficial.
