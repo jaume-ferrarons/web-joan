@@ -4,12 +4,10 @@ title: Erfahrung
 picture: /images/orosio00.png
 menu: true
 ---
-Joan Ferrarons verfügt über reiche Erfahrung als Sprachmittler. Im Laufe der letzten zehn Jahre hat er über dreißig Bücher übersetzt sowie ein Dutzend Bücher lektoriert.
+Im Laufe der Jahre sammelte ich eine beträchtliche Erfahrung als Sprachmittler, indem ich über vierzig Bücher übersetzte und ein weiteres Dutzend lektorierte. Die meisten meiner Übersetzungen sind im Online-Katalog der katalanischen Universitätsbibliotheken verzeichnet.
 
-Unter seinen Übersetzungen aus dem Deutschen sind folgende zu unterstreichen: Franz Kafkas ›El castell‹ (in Kürze erscheinend), Lutz Seilers ›Die Zeitwaage‹ und ›Kruso‹ (in Kürze erscheinend, 2017), Siegfried Lenzs ›Lliçó d’alemany‹ (2016) und Friedrich Nietzsches ›El naixement de la tragèdia‹ (2014).
+Zu meinen Übersetzungen aus dem Deutschen zählen Siegfried Lenz’ ›Deutschstunde‹, Lutz Seilers ›Kruso‹ und ›Die Zeitwaage‹ sowie Franz Kafkas ›Brief an den Vater‹, ›Parabeln und Paradoxen‹ und ›Das Schloss‹, für das ich 2020 den Übersetzerpreis des Katalanischen PEN-Klubs erhielt. Außerdem habe ich zwei Werke von Nobelpreisträgern aus dem Deutschen übersetzt: Hermann Hesses ›Die Kindheit des Zauberers‹ und Bertha von Suttners ›Die Waffen nieder!‹.
 
-Auch aus dem Deutschen wurden Werke zweier Nobelpreisträgern von ihm übersetzt: Hermann Hesses ›La infantesa del bruixot‹ (2017) und Bertha von Suttners ›Abaixeu les armes!‹ (2014).
+Im Bereich der Philosophie habe ich Friedrich Nietzsches ›Die Geburt der Tragödie‹, Byung-Chul Hans ›Undinge‹, Günther Anders’ ›Der Mann auf der Brücke‹, Frédéric Gros’ ›Désobéir‹ und Andrea Köhlers ›Die geschenkte Zeit‹ übersetzt.
 
-Aus dem Französischen hat er Frédéric Gros’ ›Desobeir‹ (2018) und aus dem Englischen Norman Davies ›Reinos desaparecidos‹ (2013) übersetzt.
-
-Außerdem hat er beim Europäischen Parlament (2013) und der Stadt Barcelona (2012) sowie für das Gran Teatre del Liceu in Barcelona und das Teatro Real in Madrid (2009-10) als Übersetzer gearbeitet.
+Bald wird meine erste Übersetzung aus dem Jiddischen veröffentlicht: Lejb Rochmans Roman ›Mit blinde trit iber der erd‹.
