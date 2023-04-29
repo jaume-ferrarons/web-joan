@@ -3,4 +3,4 @@ title: ""
 menu: false
 kind: intro
 ---
-Joan Ferrarons i Llagostera arbeitet als freier Übersetzer in den Bereichen Literatur und Geisteswissenschaften und ist als beglaubigter Übersetzer für Deutsch und Katalanisch ermächtigt.
+Joan Ferrarons i Llagostera ist ein promovierter Übersetzer mit langjähriger Erfahrung in den Bereichen Literatur und Geisteswissenschaften. Darüber hinaus ist er als ermächtigter Übersetzer befugt, beglaubigte Übersetzungen zwischen Deutsch und Katalanisch zu erstellen.
