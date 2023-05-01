@@ -10,4 +10,4 @@ Ich habe für das Europäische Parlament, das Gran Teatre del Liceu in Barcelona
 
 Zu den Büchern, die ich ins Katalanische übersetzt habe, gehören Hermann Hesses ›Die Kindheit des Zauberers‹, Friedrich Nietzsches ›Die Geburt der Tragödie‹, Bertha von Suttners ›Die Waffen nieder!‹, Siegrfried Lenz’ ›Deutschstunde‹ und Franz Kafkas ›Das Schloss‹, das 2020 mit dem Übersetzerpreis des Katalanischen PEN-Klubs ausgezeichnet wurde.
 
-Derzeit bin ich als Lehrbeauftragte an der Fakultät für Übersetzen und Dolmetschen der Autonomen Universität Barcelona tätig und arbeite für die Abteilung Veröffentlichungen der Stadt Barcelona.
+Derzeit bin ich als Lehrbeauftragter an der Fakultät für Übersetzen und Dolmetschen der Autonomen Universität Barcelona tätig und arbeite für die Abteilung für Veröffentlichungen der Stadt Barcelona.
