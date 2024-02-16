@@ -10,4 +10,4 @@ Zu meinen Übersetzungen aus dem Deutschen zählen Siegfried Lenz’ ›Deutschs
 
 Im Bereich der Philosophie habe ich Friedrich Nietzsches ›Die Geburt der Tragödie‹, Byung-Chul Hans ›Undinge‹, Günther Anders’ ›Der Mann auf der Brücke‹, Frédéric Gros’ ›Désobéir‹ und Andrea Köhlers ›Die geschenkte Zeit‹ übersetzt.
 
-Bald wird meine erste Übersetzung aus dem Jiddischen veröffentlicht: Lejb Rochmans Roman ›Mit blinde trit iber der erd‹.
+Dieses Jahr erschien meine erste Übersetzung aus dem Jiddischen: Lejb Rochmans Roman ›Mit blinde trit iber der erd‹.
