@@ -12,6 +12,6 @@ Entre mis traducciones del alemán destacan <i>Lliçó d’alemany</i> de Siegfr
 
 En el ámbito de la filosofía, he traducido <i>El naixement de la tragèdia</i> de Friedrich Nietzsche, <i>No-coses</i> de Byung-Chul Han, <i>L’home dalt del pont</i> de Günther Anders, <i>Desobeir</i> de Frédéric Gros y <i>El temps regalat</i> de Andrea Köhler.
 
-A comienzos de este año llegó a las librerías mi primera traducción del yidis: la novela <i>A passes cegues per la terra</i> de Leib Rojman.
+Este año ha llegado a las librerías mi primera traducción del yidis: la novela <i>A passes cegues per la terra</i> de Leib Rojman.
 
 Para leer reseñas sobre algunas de mis traducciones, puede consultar la base de datos [Traces](https://traces.uab.cat/search?ln=ca&sc=1&p=Joan+Ferrarons&f=&action_search=Cerca&c=tracesref&c=tracesbib&c=videos).
